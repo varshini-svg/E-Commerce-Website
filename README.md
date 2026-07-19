@@ -1,5 +1,3 @@
-Below is a professional `README.md` for your project. You can customize the repository URL, screenshots, and deployment links before publishing.
-
 # NetStore - Networking Equipment E-Commerce Platform
 
 ## Overview
